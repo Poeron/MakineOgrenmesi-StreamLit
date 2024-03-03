@@ -1,4 +1,4 @@
-# MakineOgrenmesi-StreamLit
+# MakineOgrenmesi - Ev Kira Tahmini - StreamLit
 
 3.sınıf 5.yarıyıl proje ödevim olarak bir emlak sitesinden çektiğim verilerle makine öğrenmesi kullanarak konut kira tahmin modeli oluşturdum bunu da streamlit ile servisledim.
 ## Başlangıç
